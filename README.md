@@ -10,5 +10,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Atualmente, estou graduando em Engenharia de Software e estudando Pyhton autodidata. Sempre em busca de crescimento pessoal e profissional. 
-Obrigado(a) por visitar o meu perfil!
+<br>Atualmente estou cursando Engenharia de Software e estudando Python por conta própria, apaixonado por tecnologia e sempre em busca de atualizações nas tendências da área.<br/>Agradeço por visitar meu perfil!
