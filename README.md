@@ -11,7 +11,6 @@
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
-</div>
   <img align="center" alt="html" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 <br>Atualmente estou cursando Engenharia de Software e estudando Python/SQL por conta própria, apaixonado por tecnologia e sempre em busca de atualizações nas tendências da área.<br/><br/>Agradeço por visitar meu perfil!
