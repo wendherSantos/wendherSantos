@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wendherSantos)](https://github.com/wendherSantos/github-readme-stats)
 
 ## Sobre mim
-Atualmente, sou um estudante de Engenharia de Software e entusiasta da tecnologia. Iniciei minha jornada em 2023 e estou focado em aprender Python, SQL e Cloud. Ainda estou no início, mas estou em constante busca por atualizações e tendências na área. 
+Atualmente, sou um estudante de Engenharia de Software e entusiasta da tecnologia. Iniciei minha jornada em 2023 e estou focado em aprender Python, SQL e Cloud(AWS). Ainda estou no início, mas estou em constante busca por atualizações e tendências na área. 
 
 Além disso, estou ampliando meu conhecimento em Java e SQL por meio de cursos online e autodidatismo. Estou empenhado em me destacar como profissional na área de tecnologia.
 
