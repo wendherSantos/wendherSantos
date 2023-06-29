@@ -20,7 +20,4 @@ Além disso, estou ampliando meu conhecimento em Java e SQL por meio de cursos o
 - ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   <!-- HTML: Linguagem de marcação para desenvolvimento web -->
 
-- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  <!-- Java: Linguagem de programação amplamente utilizada e orientada a objetos -->
-
 Agradeço por visitar meu perfil! Se tiver alguma pergunta ou oportunidade de colaboração, não hesite em entrar em contato.
