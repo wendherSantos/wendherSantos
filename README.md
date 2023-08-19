@@ -2,6 +2,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wendhergs/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendher-santos/)
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://wendhersantos.github.io/)
 
 ![Wendher GitHub stats](https://github-readme-stats.vercel.app/api?username=wendherSantos&show_icons=true&theme=dracula)
 
